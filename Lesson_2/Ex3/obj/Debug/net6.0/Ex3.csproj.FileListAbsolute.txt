@@ -1,0 +1,15 @@
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\bin\Debug\net6.0\Ex3.exe
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\bin\Debug\net6.0\Ex3.deps.json
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\bin\Debug\net6.0\Ex3.dll
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\bin\Debug\net6.0\Ex3.pdb
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.dll
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.pdb
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+F:\VTI_Academy_Learning\Lesson_2\Ex1\Ex3\obj\Debug\net6.0\ref\Ex3.dll
